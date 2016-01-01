@@ -39,9 +39,10 @@ git clone https://github.com/haya14busa/incsearch-migemo.vim ~/.vim/bundle/incse
 ### 使い方
 
 ```vim
-map m/ <Plug>(incsearch-migemo-/)
-map m? <Plug>(incsearch-migemo-?)
-map mg/ <Plug>(incsearch-migemo-stay)
+map m/  <Plug>(incsearch-migemo-/)
+map m?  <Plug>(incsearch-migemo-?)
+map mg/ <Plug>(incsearch-migemo-stay-/)
+map mg? <Plug>(incsearch-migemo-stay-?)
 ```
 
 ### API
